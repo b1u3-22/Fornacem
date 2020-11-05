@@ -1,0 +1,65 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xxx",
+    "yyz"
+  ],
+  "key":
+  {
+    "x":[
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:charcoal"
+      }
+    ],
+    "y":[
+      {
+        "item": "minecraft:oak_log"
+      },
+      {
+        "item": "minecraft:spruce_log"
+      },
+      {
+        "item": "minecraft:birch_log"
+      },
+      {
+        "item": "minecraft:jungle_log"
+      },
+      {
+        "item": "minecraft:acacia_log"
+      },
+      {
+        "item": "minecraft:dark_oak_log"
+      }
+    ],
+    "z": [
+      {
+        "item": "minecraft:oak_planks"
+      },
+      {
+        "item": "minecraft:spruce_planks"
+      },
+      {
+        "item": "minecraft:birch_planks"
+      },
+      {
+        "item": "minecraft:jungle_planks"
+      },
+      {
+        "item": "minecraft:acacia_planks"
+      },
+      {
+        "item": "minecraft:dark_oak_planks"
+      }
+    ]
+  },
+  "result":
+  {
+    "item": "fornacem:smiths_coal",
+    "count": 9
+  }
+}

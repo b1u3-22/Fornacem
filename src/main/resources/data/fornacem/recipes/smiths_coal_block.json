@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "fornacem:smiths_coal"
+    }
+  },
+  "result":
+  {
+    "item": "fornacem:smiths_coal_block",
+    "count": 1
+  }
+}

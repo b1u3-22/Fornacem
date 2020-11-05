@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "fornacem:combined_coal"
+  },
+  "result": "fornacem:smiths_coal",
+  "experience": 6.0,
+  "cookingtime": 300
+}

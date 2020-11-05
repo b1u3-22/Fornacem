@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model":  "fornacem:block/smiths_coal_block" }
+  }
+}
