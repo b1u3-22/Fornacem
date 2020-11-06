@@ -1,3 +1,6 @@
+[![GitHub license](https://img.shields.io/github/license/Simpleton-Yogy/Fornacem?style=for-the-badge)](https://github.com/Simpleton-Yogy/Fornacem/blob/1.15.2-latest/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Simpleton-Yogy/Fornacem?color=%239933ff&style=for-the-badge)](https://github.com/Simpleton-Yogy/Fornacem/issues)
+
 # Fornacem
 
 * Fornacem is Minecraft Forge mod project that targets adding more smelting options into the game
