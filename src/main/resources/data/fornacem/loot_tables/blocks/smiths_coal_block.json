@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "fornacem:combined_coal_block"
+          "name": "fornacem:smiths_coal_block"
         }
       ]
     }
