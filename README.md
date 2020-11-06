@@ -1,3 +1,6 @@
+[![GitHub license](https://img.shields.io/github/license/Simpleton-Yogy/Fornacem?style=for-the-badge)](https://github.com/Simpleton-Yogy/Fornacem/blob/1.15.2-latest/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Simpleton-Yogy/Fornacem?color=%239933ff&style=for-the-badge)](https://github.com/Simpleton-Yogy/Fornacem/issues)
+
 # Fornacem
 
 * Fornacem is Minecraft Forge mod project that targets adding more smelting options into the game
@@ -8,9 +11,10 @@
 ---
 
 ## Features 
-- [ ] Create some basic options for smelting
-- [ ] Create blocks for multipart buildings
-- [ ] Figure out the *~fluids~*
+- [ ] Create Fornaculas - essentialy small smelting factories
+- [ ] Create Magnums - multiblock smelting factories
+- [x] Custom fuel
+- [ ] Figure out the *~ fluids ~*
 - [ ] Casting
 - [ ] ~~Tools~~ (not sure about this one)
 - [ ] Other mod compatibility
