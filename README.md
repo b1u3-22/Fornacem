@@ -8,9 +8,10 @@
 ---
 
 ## Features 
-- [ ] Create some basic options for smelting
-- [ ] Create blocks for multipart buildings
-- [ ] Figure out the *~fluids~*
+- [ ] Create Fornaculas - essentialy small smelting factories
+- [ ] Create Magnums - multiblock smelting factories
+- [x] Custom fuel
+- [ ] Figure out the *~ fluids ~*
 - [ ] Casting
 - [ ] ~~Tools~~ (not sure about this one)
 - [ ] Other mod compatibility
