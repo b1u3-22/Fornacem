@@ -2,8 +2,10 @@ package com.b1u322.fornacem.util;
 
 import com.b1u322.fornacem.blocks.BlockItemBase;
 import com.b1u322.fornacem.blocks.SmithsCoalBlock;
+import com.b1u322.fornacem.blocks.SmithsCoalItemBlock;
 import com.b1u322.fornacem.fornacem;
 import com.b1u322.fornacem.items.ItemBase;
+import com.b1u322.fornacem.items.SmithsCoal;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.RegistryObject;
@@ -23,11 +25,11 @@ public class RegistryHandler {
 
     // For items only
     public static final RegistryObject<Item> COMBINED_COAL = ITEMS.register("combined_coal", ItemBase::new);
-    public static final RegistryObject<Item> SMITHS_COAL = ITEMS.register("smiths_coal", ItemBase::new);
+    public static final RegistryObject<Item> SMITHS_COAL = ITEMS.register("smiths_coal", SmithsCoal::new);
 
     // For Blocks only
     public static final RegistryObject<Block> SMITHS_COAL_BLOCK = BLOCKS.register("smiths_coal_block", SmithsCoalBlock::new);
 
     // For Block Items only
-    public static final RegistryObject<Item> SMITHS_COAL_BLOCK_ITEM = ITEMS.register("smiths_coal_block", () -> new BlockItemBase(SMITHS_COAL_BLOCK.get()));
+    public static final RegistryObject<Item> SMITHS_COAL_BLOCK_ITEM = ITEMS.register("smiths_coal_block", () -> new SmithsCoalItemBlock(SMITHS_COAL_BLOCK.get()));
 }

@@ -125,12 +125,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_coal": "2020-11-05 21:08:19 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2020-11-05 21:07:07 +0100"
@@ -140,6 +134,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2020-11-05 21:07:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2020-11-05 21:08:19 +0100"
     },
     "done": true
   },
@@ -179,15 +179,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2020-11-05 21:07:52 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-11-05 21:07:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2020-11-05 21:07:52 +0100"
     },
     "done": true
   },
@@ -215,15 +215,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2020-11-05 21:07:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2020-11-05 21:07:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2020-11-05 21:07:51 +0100"
     },
     "done": true
   },
@@ -251,9 +251,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_trapdoor": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_planks": "2020-11-05 21:07:51 +0100"
+      "has_log": "2020-11-05 21:07:08 +0100"
     },
     "done": true
   },
@@ -263,9 +263,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
+  "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
-      "has_log": "2020-11-05 21:07:08 +0100"
+      "has_planks": "2020-11-05 21:07:51 +0100"
     },
     "done": true
   },
